@@ -2,4 +2,5 @@
 
 ![](https://static8.lottiefiles.com/images/logo/lottiefiles-logo.svg)
 
-Details: https://github.com/lottiefiles
+Github: https://github.com/lottiefiles
+Lottiefiles: https://lottiefiles.com/
