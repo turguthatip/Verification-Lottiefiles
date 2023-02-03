@@ -25,3 +25,6 @@ Lottiefiles: https://lottiefiles.com/ </br>
 
 #### Passport OCR
 ![Pasaport_OCR](https://user-images.githubusercontent.com/15914796/216580611-21242d54-720e-4fa0-94d1-c80f99cb0bd2.jpg)
+
+#### Card Reader NFC
+![Card_Reader_NFC](https://user-images.githubusercontent.com/15914796/216581581-f4d00e45-e3c4-4f3a-9039-c55a10e710c7.jpg)
