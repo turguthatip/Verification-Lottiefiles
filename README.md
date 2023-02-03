@@ -16,3 +16,6 @@ Lottiefiles: https://lottiefiles.com/ </br>
 
 #### TC ID NFC Verification - Vertical
 ![Kimlik-On](https://user-images.githubusercontent.com/15914796/214234531-ac0b9dcf-3541-499e-b765-074ceffccd3b.jpg)
+
+#### TC ID FRONT OCR
+![Turkish-ID-OCR](https://user-images.githubusercontent.com/15914796/216579399-5a3ae870-54d4-4138-8cb0-1fbe7b452dfc.jpg)
