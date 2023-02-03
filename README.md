@@ -22,3 +22,6 @@ Lottiefiles: https://lottiefiles.com/ </br>
 
 #### TC ID BACK OCR
 ![TC_ID_Back_OCR](https://user-images.githubusercontent.com/15914796/216580151-c4c5155a-d729-4ee8-968b-da5797dfb2eb.jpg)
+
+#### Passport OCR
+![Pasaport_OCR](https://user-images.githubusercontent.com/15914796/216580611-21242d54-720e-4fa0-94d1-c80f99cb0bd2.jpg)
