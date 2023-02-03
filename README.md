@@ -32,5 +32,8 @@ Lottiefiles: https://lottiefiles.com/ </br>
 #### Card Reader ID Verification
 ![Card_Reader_ID_Verification](https://user-images.githubusercontent.com/15914796/216582112-b9bb9f4a-6715-4e73-9469-597f6bd97881.jpg)
 
+#### Card Reader Passport NFC Verification
+![passport_NFC](https://user-images.githubusercontent.com/15914796/216589161-07d0367d-49f6-4bbe-aab8-07c21dddc2ce.jpg)
+
 #### Success
 ![Confirmation](https://user-images.githubusercontent.com/15914796/216584344-14fab0ac-2aa9-44c4-a892-da87ce6fecee.jpg)
