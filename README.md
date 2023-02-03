@@ -28,3 +28,6 @@ Lottiefiles: https://lottiefiles.com/ </br>
 
 #### Card Reader NFC
 ![Card_Reader_NFC](https://user-images.githubusercontent.com/15914796/216581581-f4d00e45-e3c4-4f3a-9039-c55a10e710c7.jpg)
+
+#### Card Reader ID Verification
+![Card_Reader_ID_Verification](https://user-images.githubusercontent.com/15914796/216582112-b9bb9f4a-6715-4e73-9469-597f6bd97881.jpg)
